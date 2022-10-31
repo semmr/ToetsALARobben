@@ -4,7 +4,7 @@ if (!empty($DataReceived))
 {
     $name = trim($_REQUEST['name']);
 }
-echo '<body style="background-color: ', $_POST['color'], "\">";
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
